@@ -1,3 +1,4 @@
-fetch(destinationURL, configurationObject = {
+fetch(destinationURL, configurationObject);
+configurationObject = {
   method: "POST"
-};);
+};
